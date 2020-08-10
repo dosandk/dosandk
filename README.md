@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Blog posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Конфигурация Jest](http://jstips.space/jest-configuration/)
 - [Введение в тестирование с использованием Jest](http://jstips.space/jest-intro/)
