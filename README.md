@@ -6,6 +6,7 @@
 - [Введение в тестирование с использованием Jest](http://jstips.space/jest-intro/)
 - [DOM: Какие методы считаются устаревшими и почему?](http://jstips.space/append-vs-appendChild/)
 - [Вам не нужен "use strict"](http://jstips.space/use-strict/)
+- ["Arrow functions" Cookbook](http://jstips.space/arrow-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 
