@@ -2,6 +2,10 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Конфигурация Jest](http://jstips.space/jest-configuration/)
+- [Введение в тестирование с использованием Jest](http://jstips.space/jest-intro/)
+- [DOM: Какие методы считаются устаревшими и почему?](http://jstips.space/append-vs-appendChild/)
+- [Вам не нужен "use strict"](http://jstips.space/use-strict/)
 <!-- BLOG-POST-LIST:END -->
 
 
