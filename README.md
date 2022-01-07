@@ -1,15 +1,5 @@
 # Hi there 👋
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Конфигурация Jest](http://jstips.space/jest-configuration/)
-- [Введение в тестирование с использованием Jest](http://jstips.space/jest-intro/)
-- [DOM: Какие методы считаются устаревшими и почему?](http://jstips.space/append-vs-appendChild/)
-- [Вам не нужен "use strict"](http://jstips.space/use-strict/)
-- ["Arrow functions" Cookbook](http://jstips.space/arrow-functions/)
-<!-- BLOG-POST-LIST:END -->
-
-
 <!--
 **dosandk/dosandk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
